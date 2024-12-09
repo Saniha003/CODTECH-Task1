@@ -4,7 +4,7 @@
 **Company :** CODTECH IT SOLUTIONS
 **ID :** CT6WDS2480
 **Duration :** NOVEMBER TO JANUARY 2025
-**Mentor :**
+**Mentor :** NEELA SANTHOSH KUMAR
 
 ## Overview Of The Project
 
